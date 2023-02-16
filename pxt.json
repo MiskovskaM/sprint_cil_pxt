@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "WhaleySansFont": "github:makecode-extensions/whaleysansfont#v1.1.0"
+        "WhaleySansFont": "github:makecode-extensions/whaleysansfont#v1.1.0",
+        "pxt-running-competition": "github:TomasKazda/pxt-running-competition#d178837d481ea81033dc86daf02be4ab16ab4d1b"
     },
     "files": [
         "main.ts",
